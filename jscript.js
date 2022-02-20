@@ -7,6 +7,8 @@ $('#standing').click(function(){
         $('p').text("ありがとよ");
     } else if (number == 1) {
         $('p').text("老けた？");
+    } else if (number == 3) {
+        $('p').text("・・・")
     } else {
         $('p').text("もっとなでろ");
     }
