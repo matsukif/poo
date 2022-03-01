@@ -1,3 +1,9 @@
+body {
+/*    background:linear-gradient(45deg, red,black); */
+    color:white;
+    background-color:black;
+}
+
 #explain {
     font-size:70px;
     text-align: center;
